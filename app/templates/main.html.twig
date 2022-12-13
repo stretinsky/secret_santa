@@ -1,0 +1,12 @@
+{% extends 'base.html.twig' %}
+
+{% block body %}
+  <h1>Secret Santa</h1>
+
+  <form id="form" method="POST">
+    <div id="persons"></div>
+    <input type="button" id="add-person" value="Add person"></input>
+    <input type="button" id="send" value="Send"></input>
+  </form>
+  <script src="add-person.js"></script>
+{% endblock %}
