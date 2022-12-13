@@ -38,4 +38,4 @@
 
 ## Usage
 
-localhost:8081/main - Main page. Enter the name and email of the participants (minumum 4), the system will distribute all and send emails.
+localhost:8081/main - Main page. Enter the name and email of the participants (minimum 4), the system will distribute all and send emails.
